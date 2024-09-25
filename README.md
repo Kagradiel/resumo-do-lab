@@ -16,3 +16,11 @@
   <li>Existem opções de configuração de redundância</li>
   <li>As opções de configuração influenciam no custo</li>
 </ul>
+
+<h3> Pontos chave abordados no Lab 3 </h3>
+<ul>
+  <li>Ao selecionar uma imagem toda a configuração é de responsabilidade do cliente</li>
+  <li>Ao criar banco de dados é necessario configurar um server para o banco</li>
+  <li>No portal as configurações sao visualmente explicitas</li>
+  <li>O portal da a previsão de custos</li>
+</ul>
